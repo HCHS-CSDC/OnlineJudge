@@ -17,7 +17,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: oj_backend
+  IMAGE_NAME: ${{ github.repository }}
 
 jobs:
   build-and-push-image:
