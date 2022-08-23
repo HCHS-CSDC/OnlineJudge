@@ -3,7 +3,7 @@ chardet==3.0.4
 coverage==6.4.4
 Django==3.2.9
 django-redis==5.2.0
-djangorestframework==3.12.4
+djangorestframework==3.13.1
 entrypoints==0.4
 Envelopes==0.4
 flake8==4.0.1
