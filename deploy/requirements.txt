@@ -1,7 +1,7 @@
 certifi==2022.6.15
 chardet==5.0.0
 coverage==6.4.4
-Django==3.2.9
+Django==4.1
 django-redis==5.2.0
 djangorestframework==3.13.1
 entrypoints==0.4
@@ -14,8 +14,8 @@ idna==3.3
 jsonfield==3.1.0
 mccabe==0.7.0
 otpauth==1.0.1
-Pillow==8.4.0
-psycopg2==2.9.2
+Pillow==9.2.0
+psycopg2==2.9.3
 pycodestyle==2.9.1
 pyflakes==2.5.0
 python-dateutil==2.8.2
@@ -30,4 +30,4 @@ XlsxWriter==3.0.3
 django-dramatiq==0.11.0
 dramatiq==1.13.0
 django-dbconn-retry==0.1.7
-django-cas-ng==4.2.1
+django-cas-ng==4.3.0
