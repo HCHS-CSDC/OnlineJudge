@@ -1,4 +1,4 @@
-certifi==2022.6.15
+certifi==2022.6.15.1
 chardet==5.0.0
 coverage==6.4.4
 Django==3.2.15
